@@ -21,6 +21,8 @@ The binary star system can result in:
 
 These orbital behaviors depend on the relative velocity of the two stars, particularly compared with velocities such as the circular velocity (`v_circ`) and escape velocity (`v_esc`).
 
+If you want to see how does binary star's orbit reacts with different mass, just simply edit the value of m_1 and m_2's float value
+
 ## Before Running
 
 Before running the code, download/install the required Python libraries:
